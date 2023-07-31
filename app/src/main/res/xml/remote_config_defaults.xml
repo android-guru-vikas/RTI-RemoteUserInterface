@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>remote_config_ui</key>
+    <value>
+      {
+      "color_1":"",
+      "color_2":"",
+      "color_3":"",
+      "color_4":"",
+      "color_5":"",
+      "ui_version":""
+      }
+    </value>
+  </entry>
+</defaults>

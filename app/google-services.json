@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990069544078",
+    "project_id": "realtimeinterface-b0ea1",
+    "storage_bucket": "realtimeinterface-b0ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990069544078:android:ced3e277e640febc66e5df",
+        "android_client_info": {
+          "package_name": "com.awesome.android.realtimeinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990069544078-9sodkigseptkmhh8bhdvb9p1qlo8id08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdaZ5RDn3AUY0NBlRPTL2cXpwvqnszMs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990069544078-9sodkigseptkmhh8bhdvb9p1qlo8id08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
